@@ -1,4 +1,4 @@
-## # Hi, I'm Lohith 👋
+## Hi, I'm Lohith 👋
 
 ### Java Full Stack Developer | AI & Agentic AI Enthusiast
 
