@@ -1,4 +1,4 @@
-## Hi, I'm Lohith 👋
+## Hi, I'm Nama Sai Gowtham 👋
 
 ### Java Full Stack Developer | AI & Agentic AI Enthusiast
 
